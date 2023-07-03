@@ -2,3 +2,5 @@ red ranger
 blue ranger
 some other ranger
 rainbow ranger
+green ranger
+whatever ranger
